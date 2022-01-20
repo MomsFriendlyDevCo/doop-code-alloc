@@ -1,4 +1,4 @@
-@doop/service-{{FIXME}}
+@doop/service-code-alloc
 ==================
 
-A {{FIXME}} service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
+A code allocation service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
