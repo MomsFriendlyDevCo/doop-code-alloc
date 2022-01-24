@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-code-alloc",
+  "name": "@doop/code-alloc",
   "version": "1.0.0",
   "description": "A code allocation service for the Doop framework",
   "repository": {
