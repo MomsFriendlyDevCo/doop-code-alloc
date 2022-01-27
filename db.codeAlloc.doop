@@ -36,8 +36,6 @@ const mongoosy = require('@momsfriendlydevco/mongoosy');
 * }))
 */
 app.middleware.db.codeAlloc = (model, options) => {
-	app.log.warn('MONGOOSY: Untested app.middleware.db.codeAlloc on', app.log.colors.cyan(schema.id), '- verify functionality before moving this warning');
-
 	var settings = {
 		field: 'code',
 		template: '{{unique}}',
