@@ -4,7 +4,7 @@
   "description": "A code allocation service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-code-alloc.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-code-alloc.git"
   },
   "keywords": [
     "doop"
@@ -12,15 +12,12 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-code-alloc/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-code-alloc/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-code-alloc#readme",
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-code-alloc#readme",
   "dependencies": {
     "@momsfriendlydevco/mongoosy": "^1.4.1",
     "handlebars": "^4.7.7",
     "lodash": "^4.17.21"
-  },
-  "workspaces": [
-    "../*"
-  ]
+  }
 }
